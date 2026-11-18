@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "zen-deck@omgitworks.com": {
+      "updates": [
+        {
+          "version": "0.3.0",
+          "update_link": "https://github.com/daileyo/zen-deck-releases/releases/download/v0.3.0/zen-deck-0.3.0.xpi",
+          "update_hash": "sha256:e536fd892430846dbc2a417dbd3cfef104c364e95ae67e3bb425963ccb35851f"
+        }
+      ]
+    }
+  }
+}

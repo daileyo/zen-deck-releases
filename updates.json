@@ -11,6 +11,11 @@
           "version": "0.3.1",
           "update_link": "https://github.com/daileyo/zen-deck-releases/releases/download/v0.3.1/zen-deck-0.3.1.xpi",
           "update_hash": "sha256:ba0a353017bd560a6ad9edd7cafe1c7fe49bb2a23b130f0da9a7f25232f395e3"
+        },
+        {
+          "version": "0.3.2",
+          "update_link": "https://github.com/daileyo/zen-deck-releases/releases/download/v0.3.2/zen-deck-0.3.2.xpi",
+          "update_hash": "sha256:b568ed7fc4d6a3dbe01dcb4f66806e1c8a6a0011b6696678a45a9109f51503a8"
         }
       ]
     }
